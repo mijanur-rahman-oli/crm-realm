@@ -1,6 +1,4 @@
-# CRM Realm - Junior Software Engineer Intern Assessment
-
-Submission by **Mijanur Rahman Oli**.
+# CRM Realm 
 
 | Part | What | Where |
 |------|------|-------|
@@ -120,4 +118,4 @@ JavaScript (`solutions.test.js`, 21 tests):
 
 ## AI tools used
 
-I used **Claude (Anthropic)** to draft the project structure, the Java and JavaScript code, the tests and this README. I then compiled and ran everything. Running the tests caught a mistake in one of my own test cases (`"a b a"` has two spaces), which I corrected. The design decisions above are mine to explain in a follow-up discussion.
+I used **Claude** to draft the project structure, the tests and this README. I then compiled and ran everything. Running the tests caught a mistake in one of my own test cases (`"a b a"` has two spaces), which I corrected. The design decisions above are mine to explain in a follow-up discussion.

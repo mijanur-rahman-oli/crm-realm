@@ -1,0 +1,14 @@
+{
+  "name": "crm-realm",
+  "version": "1.0.0",
+  "description": "JavaScript problem-solving (Part B) for the CRM Realm Junior Software Engineer Intern assessment",
+  "main": "solutions.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "private": true
+}
